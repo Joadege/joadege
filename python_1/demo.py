@@ -21,3 +21,18 @@ while cond <5:
     print('hello world')
     cond = cond + 1
     print(cond)
+    
+    #block of reuseable code
+    
+    #
+def myfunction(text):
+    print(text)
+        
+myfunction('hello dae') # calling the function
+myfunction('wsg gang')
+myfunction('The function has been called ')        
+myfunction('')        
+      
+     
+    
+        
